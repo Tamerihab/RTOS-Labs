@@ -1,0 +1,56 @@
+# ninja log v5
+1	1432	7302301500000000	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.xcl	3bf657acadcab0a7
+1440	2680	7302301517975314	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+2684	3142	7302301522626480	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	4ff541b2ff07398e
+3146	4871	7302301539208780	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+0	192	7302312370000000	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.xcl	a172689f3212bc4
+197	301	7302312379588992	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+304	330	7302312379903614	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	4ff541b2ff07398e
+356	867	7302312385102494	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+11	248	7302313770000000	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/startup_ewarm.xcl	239d192c605d4d18
+71	299	7302313770000000	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/SYSTICK.xcl	8a3538ed39b41877
+0	333	7302313770000000	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/DIO.xcl	57359239101ab194
+256	1538	7302313791600663	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/startup_ewarm.pbi	975ac1c381033e43
+306	1639	7302313792571588	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/SYSTICK.pbi	fb37aa9a58fe3ed9
+338	1643	7302313792571588	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/DIO.pbi	b1ea119640282f2
+1646	1745	7302313793688900	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	7372390907d11079
+1750	3027	7302313806168560	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+1	156	7302315325646323	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+159	246	7302315326576259	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	7372390907d11079
+251	1488	7302315338266982	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+1	94	7302327897504638	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+97	191	7302327898500178	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	7372390907d11079
+197	1210	7302327907665726	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+1	85	7302328314460220	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+88	205	7302328315659225	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	7372390907d11079
+212	1439	7302328327124722	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+1	150	7302329007589876	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+153	240	7302329008503058	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	7372390907d11079
+246	1269	7302329018514570	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+1	64	7302329453760880	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	dba805a19b052526
+68	1138	7302329464216555	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+1	86	7302332346469976	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+97	181	7302332347450464	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	dba805a19b052526
+186	1245	7302332357091535	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+1	133	7302335864307924	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+136	256	7302335865559200	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	dba805a19b052526
+260	1409	7302335876814626	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+1	223	7302336688883725	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+229	343	7302336690085187	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	dba805a19b052526
+349	1303	7302336699412150	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+13	172	7302336900000000	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/startup_ewarm.xcl	30eeeeb7d9435ff2
+0	190	7302336900000000	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.xcl	d7736ffc58b6299c
+23	204	7302336900000000	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/DIO.xcl	1021a7c39226a711
+197	309	7302336905588467	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/main.pbi	cfb5721acf6eae07
+211	333	7302336905837801	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/DIO.pbi	b1ea119640282f2
+178	440	7302336906894130	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/startup_ewarm.pbi	975ac1c381033e43
+443	600	7302336908515941	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbd	dba805a19b052526
+604	1837	7302336919682327	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/BrowseInfo/lab1.pbw	64a8116e01d648e3
+9	1089	7325664840000000	D:/Tamer/Lectures Tamer/RTOS/Labs/lab 1/Debug/BrowseInfo/main.xcl	813e03d46daa8c87
+160	1138	7325664840000000	D:/Tamer/Lectures Tamer/RTOS/Labs/lab 1/Debug/BrowseInfo/DIO.xcl	3ee42c5354c134e1
+1099	1760	7325664850000000	D:/Tamer/Lectures Tamer/RTOS/Labs/lab 1/Debug/BrowseInfo/startup_ewarm.xcl	6c3b85d1a919bf0c
+1148	1899	7325664855043355	D:/Tamer/Lectures Tamer/RTOS/Labs/lab 1/Debug/BrowseInfo/DIO.pbi	d65e6d99e3ab70c1
+1772	2263	7325664858793332	D:/Tamer/Lectures Tamer/RTOS/Labs/lab 1/Debug/BrowseInfo/startup_ewarm.pbi	2666d70e3a1535f6
+1905	2418	7325664860343342	D:/Tamer/Lectures Tamer/RTOS/Labs/lab 1/Debug/BrowseInfo/main.pbi	f95c2fbec4ade1d7
+2425	2658	7325664862754773	D:/Tamer/Lectures Tamer/RTOS/Labs/lab 1/Debug/BrowseInfo/lab1.pbd	48edcc603b3fd591
+2664	9521	7325664906511991	D:/Tamer/Lectures Tamer/RTOS/Labs/lab 1/Debug/BrowseInfo/lab1.pbw	89cb26b0619e7f17

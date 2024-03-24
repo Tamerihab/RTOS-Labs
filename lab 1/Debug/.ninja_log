@@ -1,0 +1,12 @@
+# ninja log v5
+34	1674	7302328989210968	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Obj/SYSTICK.o	5a438f2aa0a12ef2
+18	1682	7302328989210968	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Obj/startup_ewarm.o	69e7c69cdfb0ddf8
+26	1711	7302328989210968	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Obj/main.o	b3c9b58846f874c1
+1	1725	7302328989220913	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Obj/DIO.o	79b2b48f360b095
+383	457	7302329435222396	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Exe/lab1.out	9e09d50f603cd142
+2	187	7302332404153835	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Obj/main.o	b3c9b58846f874c1
+193	255	7302332404872056	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Exe/lab1.out	9e09d50f603cd142
+22	229	7302336862174525	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Obj/startup_ewarm.o	3ab753d5d1f39cbd
+13	250	7302336862433818	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Obj/main.o	1119d78f6fdcd284
+3	349	7302336863426908	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Obj/DIO.o	e9ce4835f7f00e5c
+355	528	7302336865265186	D:/gam3a/Senior 1/Spring 24/RTOS/lab 1/Debug/Exe/lab1.out	9e09d50f603cd142
